@@ -23,7 +23,7 @@
 $ pip install cu
 ```
 
-# Why Permutated?
+# Why?
 
 - Why not 😂
 - Clean and focused
